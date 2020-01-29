@@ -1,0 +1,25 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/jquery.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/icon_16.png"
+      }
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "img/icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs5zbMk6wzjdDg6InVIN4fGJ9GqYGOx6ohhW4+PjPw+cbHLUeg67J1S8uGFRpDYXfmD9I8Xi4wcjNk9qEnS3RHG2QqczzXhFvZ1AeukIBOxPUlgmuvDFhxyu3fdW2owRb+BPpdKCdpzvkaoDzDemAvp6BM77YgnBj2qWUZ8sZKPlyaG7pPvmKTCwMkql+pJrCqSKrPB631ptlzKA0knNwwov8oIFsXc9iZ2ieL93hYPV8s0i8ZgJqao69uUlkUQHcncszRf3vABDPWYQjkNiEpAkSy/fN+OEcKueRNgseYe2UtThIcq4zZ4X74o1C2UqUjGLYFiYsK8wE1OBbSCuFzQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "40",
+   "name": "__MSG_extName__",
+   "permissions": [ "storage", "cookies", "tabs", "webRequest", "webRequestBlocking", "notifications", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7.0",
+   "web_accessible_resources": [ "css/*", "img/*", "fonts/*" ]
+}

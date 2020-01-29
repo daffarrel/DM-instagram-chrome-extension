@@ -1,0 +1,92 @@
+{
+   "accept": {
+      "message": "I Agree"
+   },
+   "actions_btns": {
+      "message": "Action buttons (download & expand)"
+   },
+   "back_2_inbox": {
+      "message": "Back to Inbox"
+   },
+   "btn_cancel": {
+      "message": "Cancel"
+   },
+   "enter_your_email": {
+      "message": "Enter your email"
+   },
+   "extDescription": {
+      "message": "Direct Message for Instagram™ allows you sending Instagram direct messages from your desktop PC."
+   },
+   "extName": {
+      "message": "Direct Message for Instagram™"
+   },
+   "feedback_sent": {
+      "message": "Thank you for your feedback!"
+   },
+   "go_to_instagram": {
+      "message": "Go to instagram.com"
+   },
+   "lang": {
+      "message": "en"
+   },
+   "login_to_instagram": {
+      "message": "Login to instagram.com"
+   },
+   "need_feel_text": {
+      "message": "Message field must not empty"
+   },
+   "notAuthorizedMsg": {
+      "message": "Please login to your Instagram account"
+   },
+   "not_valid_email": {
+      "message": "Invalid email"
+   },
+   "notifications": {
+      "message": "Notifications"
+   },
+   "open_feedback_form": {
+      "message": "Send feedback"
+   },
+   "rate_us_popup": {
+      "message": "Rate us"
+   },
+   "send": {
+      "message": "Send"
+   },
+   "send_by_enter": {
+      "message": "Press enter to send"
+   },
+   "send_img_from_anywhere": {
+      "message": "Send image from any page"
+   },
+   "send_img_from_anywhere_help_message": {
+      "message": "Extension adds upload button to any image on any website; clicking this button you will send the image in direct message."
+   },
+   "settings_header": {
+      "message": "Direct Settings"
+   },
+   "show_action_buttons_help_message": {
+      "message": "This setting displays/hides two corresponding buttons. Download button starts downloading the file to your computer. Expand button opens a photo or video you view in a new tab of your browser."
+   },
+   "show_notifications": {
+      "message": "Show Notifications"
+   },
+   "symbols_left": {
+      "message": "Characters left"
+   },
+   "terms_header": {
+      "message": "Privacy Policy of Direct Message for Instagram™"
+   },
+   "terms_text": {
+      "message": "This page informs you of our Policies regarding collection, use, and disclosure of personal or sensitive data when you use our extension, and the choices you have associated with that data.\u003Cbr>According to terms and definitions of Chrome Web Store's Developer Program Policies our extension called “Direct Message for Instagram™” handles sensitive or personal user data, which includes Cookies and Web Browsing Activity information. That is why we are obliged to inform all our users about method and purpose of collection, storage and use of sensitive or personal user data by our extension.\u003Cbr>\u003Cbr>1. \u003Cstrong>Web Browsing Activity.\u003C/strong> This type of information includes any information about the websites or other web resources a user requests or interacts with, including the domains or URLs the browser interacts with. Our extension collects this data in order to get a moment when we should receive Cookies of instagram.com domain. Our extension monitors refreshing or reloading tabs in your browser and if a tab with domain instagram.com is refreshed, then at this moment we get a Cookie file. We do not store and do not send anywhere those data about what tabs of your browser are refreshed. This information is used only as a ''trigger'' for receiving Cookie. See clause 2. for details about use of Cookies.\u003Cbr>\u003Cbr>2. \u003Cstrong>Cookies.\u003C/strong> Direct Message for Instagram™ uses Cookies. Our extension monitors cookies of instagram.com domain and saves them locally within our extension. We use these cookies for sending requests to instagram.com for receiving content of your inbox of DM and threads of Instagram™ Direct Messages service. We request this data in order to show them to you in our extension. We do not store or use these cookies in any way except for the one described above. We do not send cookies to any third party.\u003Cbr>\u003Cbr>3. We do not collect or store any other personal or sensitive data of our users in any way or any form except ones described in clause 1. and 2.\u003Cbr>\u003Cbr>4. We do not collect, request, use or disclose any payment or financial information of our users.\u003Cbr>\u003Cbr>5. We do not request any logins or passwords from our users.\u003Cbr>\u003Cbr>6. The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.\u003Cbr>\u003Cbr>7. We are not responsible for any media or other type of information sent or received by users.\u003Cbr>\u003Cbr>8. We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. Changes to this Privacy Policy are effective immediately after they are posted on this page.\u003Cbr>\u003Cbr>9. You may uninstall this extension whenever you want using standard tools of Google Chrome Browser. If you need any help in uninstalling this extension, please contact us: \u003Ca href=\"mailto:vvwolkowvv@gmail.com\">vvwolkowvv@gmail.com\u003C/a>\u003Cbr>\u003Cbr>By clicking “I Agree” button you confirm that you have read and understand this Privacy Policy and give Direct Message for Instagram™ your consent to handle your personal and sensitive user information."
+   },
+   "title": {
+      "message": "Instagram™ DM"
+   },
+   "write_us": {
+      "message": "Write us"
+   },
+   "your_rate": {
+      "message": "Your rate"
+   }
+}
